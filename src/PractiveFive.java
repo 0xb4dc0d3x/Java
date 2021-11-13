@@ -106,7 +106,6 @@ public class PractiveFive {
     {
             {
                 System.out.println("عدد را وارد کنید");
-                System.out.println("فقط اعداد مثبت");
                 Scanner in = new Scanner(System.in);
 
                 int num = in.nextInt();
