@@ -3,7 +3,7 @@ public class PractiveFive {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("لطفا عدد تمرین مورد نظر را بنویسید\n");
-        System.out.println("1- متدی بنویسید که تمام اعداد 4 رقمی را چاپ کند");
+        System.out.println("1- متدی بنویسید که تمام اعداد 4 رقمی زوج را چاپ کند");
         System.out.println("2- متدی بنویسید که تمام اعداد 4 رقمی که یکان و دهگان آن برار است را چاپ کند");
         System.out.println("3- متدی بنویسید که تمام اعداد 4 رقمی که از دو سمت یکسان خوانده میشود را چاپ کند");
         System.out.println("4- متدی بنویسید که تعداد ارقام عدد صحیح ورودی را چاپ کند");
